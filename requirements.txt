@@ -1,0 +1,13 @@
+# HashVerify 项目依赖
+# =====================
+# 安装: pip install -r requirements.txt
+
+# PySide6 — Qt for Python 的官方绑定
+# 提供 QMainWindow, QThread, Signal 等全部 GUI 和系统功能
+# 版本要求 >= 6.5.0（Qt 6.5+）
+PySide6>=6.5.0
+
+# PyInstaller — 将 Python 脚本打包成独立 .exe 文件
+# 仅在构建/发布时需要，运行时不需要
+# 版本要求 >= 5.13.0
+pyinstaller>=5.13.0
