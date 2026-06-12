@@ -83,7 +83,3 @@ hash/
 | `ui/drop_panel.py` | 文件拖放接收、MIME `file://` URL 解析、点击选文件 |
 | `ui/hash_panel.py` | 算法按钮、进度条、结果展示、校验值输入、自动复制 |
 | `ui/styles.py` | 亮色/暗色 QSS 样式表，通过 objectName/class 精准匹配控件 |
-
-## License
-
-MIT
