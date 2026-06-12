@@ -1,0 +1,2 @@
+# hash_checker
+一个用deepseek辅助制作的基于python的哈希值校验工具，用于校验文件是否损坏或遭到篡改。
